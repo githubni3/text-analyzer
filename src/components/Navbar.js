@@ -75,6 +75,6 @@ Navbar.protoType = {
 
 // default values of props
 Navbar.defaultProps = {
-  title: "TextUtils",
+  title: "TextAnalyzer",
   aboutText: "About",
 };

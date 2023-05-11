@@ -59,7 +59,7 @@ function App() {
 
         {/* with routing */}
       <Router>
-        <Navbar mode={mode} toggleMode={toggleMode} />
+        <Navbar mode={mode} toggleMode={toggleMode} title="TextAnalyzer" />
         <Alert alert={alert} />
 
         <Routes>
